@@ -1,0 +1,84 @@
+created-9 number of teams with size1
+---------
+team1
+---------
+--------------
+team member 
+--------------
+name is-h
+branch is-cse
+favourite language  is-java
+---------
+team2
+---------
+--------------
+team member 
+--------------
+name is-king
+branch is-cse
+favourite language  is-java
+---------
+team3
+---------
+--------------
+team member 
+--------------
+name is-anurag
+branch is-cse
+favourite language  is-java
+---------
+team4
+---------
+--------------
+team member 
+--------------
+name is-hell
+branch is-cse
+favourite language  is-java
+---------
+team5
+---------
+--------------
+team member 
+--------------
+name is-miller
+branch is-cse
+favourite language  is-java
+---------
+team6
+---------
+--------------
+team member 
+--------------
+name is-h
+branch is-cse
+favourite language  is-java
+---------
+team7
+---------
+--------------
+team member 
+--------------
+name is-h
+branch is-cse
+favourite language  is-java
+---------
+team8
+---------
+--------------
+team member 
+--------------
+name is-keee
+branch is-cse
+favourite language  is-java
+---------
+team9
+---------
+--------------
+team member 
+--------------
+name is-h
+branch is-cse
+favourite language  is-java
+-------------
+end of teams
