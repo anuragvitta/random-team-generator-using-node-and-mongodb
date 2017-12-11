@@ -52,6 +52,9 @@ app.post('/',function (req, res1) {
 		}
 	});
 });
+app.post('/render',function(req,res3){
+res3.render("home");
+});
 app.post('/generate',function (req, res2) {
 	 let teamsize=req.body.tsize;
 	if(teamsize==0|teamsize<0)
